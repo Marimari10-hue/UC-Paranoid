@@ -1,4 +1,4 @@
-/* Estilo para o Título (ID) */
+
 #titulo-principal {
     color: #2c3e50;
     text-align: center;
@@ -6,7 +6,6 @@
     border-bottom: 2px solid #000;
 }
 
-/* Estilo para o primeiro parágrafo (Classe destaque) */
 .destaque {
     color: #e74c3c;
     font-weight: bold;
@@ -23,7 +22,6 @@
     text-decoration: underline;
 }
 
-/* Estilo para o terceiro parágrafo (Classe citacao) */
 .citacao {
     color: #7f8c8d;
     font-family: 'Courier New', Courier, monospace;

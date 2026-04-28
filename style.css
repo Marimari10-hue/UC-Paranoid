@@ -1,0 +1,27 @@
+
+body {
+    background-color: #ffeb3b; 
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    text-align: center;
+}
+#titulo {
+    color: #e91e63; 
+    font-size: 50px;
+}
+.frase-grande {
+    font-size: 24px;
+    font-weight: bold;
+    color: #212121;
+}
+.subtitulo {
+    font-size: 14px;
+    color: #666;
+    text-transform: uppercase;
+}
+.texto-comum {
+    background-color: white;
+    padding: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
